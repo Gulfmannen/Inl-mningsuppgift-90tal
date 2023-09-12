@@ -99,20 +99,28 @@ table {
 tr {
   color: yellow;
   text-shadow: 0 0 2px;
-  font-size: 23px;
+  font-size: 30px;
+}
+.copy1 {
+  margin-top: 51.2%;
 }
 
 h2 {
+  font-size: 30px;
   color: yellow;
   text-shadow: 0 0 6px;
-  margin-top: 10vh;
-  padding-left: 5vh;
+  margin-top: 11vh;
+  padding-left: 10vh;
 }
 
 .img3 {
   padding-top: 50px;
 }
 
-.copy1 {
-  margin-top: 49.5%;
+h3 {
+  font-size: 30px;
+  color: yellow;
+  text-shadow: 0 0 6px;
+  margin-top: -3vh;
+  padding-left: 150vh;
 }
