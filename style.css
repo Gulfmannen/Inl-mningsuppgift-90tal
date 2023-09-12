@@ -33,11 +33,6 @@ marquee {
   margin: 10px;
 }
 
-header {
-  margin-top: 10hv;
-  padding-top: 5vh;
-}
-
 #mq1 {
   text-shadow: 0 0 6px;
   color: orange;
@@ -100,15 +95,24 @@ footer {
 }
 
 table {
-  font-size: 2rem;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -6vh;
 }
 
 tr {
-  color: black;
-  text-align: center;
+  color: yellow;
+  text-shadow: 0 0 2px;
+  font-size: 23px;
 }
 
 h2 {
   color: yellow;
+  text-shadow: 0 0 6px;
+  margin-top: 10vh;
+  padding-left: 5vh;
+}
+
+.img3 {
+  padding-top: 50px;
 }
